@@ -2,7 +2,7 @@
 
 **A lightweight, customizable input visualizer for Windows.** Perfect for streamers, speedrunners, and tutorial creators who want to show their audience exactly what they are doing.
 
-![Overlay Screenshot](<img width="338" height="117" alt="image" src="https://github.com/user-attachments/assets/80d08f02-5e3c-4ffc-9417-b2abbde4b6ae" />)
+![Overlay Screenshot](https://github.com/user-attachments/assets/80d08f02-5e3c-4ffc-9417-b2abbde4b6ae)
 
 ## ✨ Key Features
 
@@ -51,8 +51,8 @@ Pull requests are welcome! If you have ideas for new features (like a key-press 
 ---
 *Built with Python (Tkinter + Pynput).*
 
-![In action םמ Autodesk Fusion software ](<img width="1484" height="915" alt="image" src="https://github.com/user-attachments/assets/de85b1aa-6b3e-4a1e-ad63-2e9a14b4dcf7" />)
-
+**!In action םמ Autodesk Fusion software**
+<img width="1484" height="915" alt="image" src="https://github.com/user-attachments/assets/de85b1aa-6b3e-4a1e-ad63-2e9a14b4dcf7" />
 
 
 
