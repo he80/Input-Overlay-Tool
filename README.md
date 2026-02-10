@@ -51,7 +51,9 @@ Pull requests are welcome! If you have ideas for new features (like a key-press 
 ---
 *Built with Python (Tkinter + Pynput).*
 
-[**!In action on Autodesk Fusion software**](https://github.com/user-attachments/assets/de85b1aa-6b3e-4a1e-ad63-2e9a14b4dcf7")
+**!In action on Autodesk Fusion software**
+<img width="1484" height="915" alt="image" src="https://github.com/user-attachments/assets/a25d11b6-590d-4ea9-895c-c443b62f8418" />
+
 
 
 
