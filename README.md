@@ -1,5 +1,5 @@
 # Input-Overlay-Tool
-A Python-based input display for streamers.
+A Python-based input mouse and keyboard overly display for streamers.
 
 
 <img width="338" height="117" alt="image" src="https://github.com/user-attachments/assets/80d08f02-5e3c-4ffc-9417-b2abbde4b6ae" />
