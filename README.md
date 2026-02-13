@@ -1,3 +1,9 @@
+![GitHub all releases](https://img.shields.io/github/downloads/he80/Input-Overlay-Tool/total?style=for-the-badge&label=Downloads&color=success)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/he80/Input-Overlay-Tool?style=for-the-badge&color=blue)
+
+![GitHub views](https://komarev.com/ghpvc/?username=he80-Input-Overlay-Tool&label=Views&color=orange&style=for-the-badge)
+
 # 🖱️ Ultimate Input mouse and keyboard Overlay
 
 **A lightweight, customizable input visualizer for Windows.** Perfect for streamers, speedrunners, and tutorial creators who want to show their audience exactly what they are doing.
